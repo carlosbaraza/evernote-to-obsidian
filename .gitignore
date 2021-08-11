@@ -9,6 +9,9 @@ config.json
 .DS_Store
 
 evernote-notebooks
+evernote-notebooks-backup
 markdown-exports
+markdown-exports-2
 
 
+node_modules

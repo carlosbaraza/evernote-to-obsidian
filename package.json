@@ -1,0 +1,23 @@
+{
+  "name": "evernote-to-obsidian",
+  "version": "1.0.0",
+  "description": "<img src=\"./img/obsidian-logo.png\" align=\"right\" width=\"250\" />",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosbaraza/evernote-to-obsidian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosbaraza/evernote-to-obsidian/issues"
+  },
+  "homepage": "https://github.com/carlosbaraza/evernote-to-obsidian#readme",
+  "dependencies": {
+    "utimes": "^4.0.5",
+    "yarle-evernote-to-md": "^4.0.11"
+  }
+}
